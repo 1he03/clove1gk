@@ -3,6 +3,7 @@ name = "clove1gk"
 version = "0.0.0"
 edition = "2024"
 description="Modular authentication & authorization middleware for Rust — JWT pipeline with Axum and Actix-web support."
+license = "MIT"
 
 [dependencies]
 http = "1.4.0"
