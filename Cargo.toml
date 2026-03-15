@@ -1,9 +1,14 @@
 [package]
 name = "clove1gk"
-version = "0.0.0"
+version = "0.0.7"
 edition = "2024"
 description="Modular authentication & authorization middleware for Rust — JWT pipeline with Axum and Actix-web support."
 license = "MIT"
+authors = ["Hlever"]
+repository = "https://github.com/1he03/clove1gk"
+keywords = ["authentication", "authorization", "jwt", "axum", "actix-web"]
+categories = ["authentication", "web-programming", "web-programming::http-server"]
+readme = "README.md"
 
 [dependencies]
 http = "1.4.0"
