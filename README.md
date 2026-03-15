@@ -55,6 +55,9 @@ async fn admin_handler(
 
 ---
 
+
 ## License
 
-MIT
+Licensed under either of
+
+- MIT license ([LICENSE-MIT](LICENSE-MIT))
